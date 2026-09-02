@@ -70,6 +70,9 @@ Command:
 
 netstat -an
 
+
+screenshots/03.1-netstat.jpeg.jpeg
+
 Used to view active network connections and listening ports.
 
 ### 5. NBTScan
