@@ -87,6 +87,9 @@ Command:
 
 smbclient -L //<target-ip>
 
+screenshots/05-smbclient.jpeg.jpeg
+
+
 Used to enumerate available SMB shares.
 
 ### 7. Script
