@@ -40,6 +40,8 @@ Command:
 
 nmap -sV <target-ip>
 
+(screenshots/01-nmap-service-version.jpeg.jpeg)
+
 The `-sV` option was used to identify services and their versions running on the target system.
 
 ### 2. FTP
