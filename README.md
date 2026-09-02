@@ -46,6 +46,12 @@ The `-sV` option was used to identify services and their versions running on the
 
 ### 2. FTP
 
+Command:
+
+ftp <target-ip>
+
+(screenshots/01-nmap-service-version.jpeg.jpeg)
+
 FTP was investigated to understand the identification and connection of an FTP service in the lab environment.
 
 ### 3. Telnet
