@@ -95,7 +95,7 @@ Used to enumerate available SMB shares.
 
 ### 7. SNMPWalk
 
-
+(screenshots/07-snmpwalk.jpeg.jpeg)
 
 SNMPWalk was used to enumerate information exposed through the SNMP service in the authorized lab environment.
 
