@@ -87,16 +87,15 @@ Command:
 
 smbclient -L //<target-ip>
 
-screenshots/05-smbclient.jpeg.jpeg
-
+(screenshots/05-smbclient.jpeg.jpeg
+screenshots/05.1-smbclient.jpeg.jpeg)
 
 Used to enumerate available SMB shares.
 
-### 7. Script
 
-A script was used during the practical to assist with network information gathering and enumeration.
+### 7. SNMPWalk
 
-### 8. SNMPWalk
+
 
 SNMPWalk was used to enumerate information exposed through the SNMP service in the authorized lab environment.
 
