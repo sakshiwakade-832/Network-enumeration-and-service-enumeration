@@ -77,6 +77,8 @@ Used to view active network connections and listening ports.
 
 ### 5. NBTScan
 
+(screenshots/-4-nbtscan.jpeg.jpeg)
+
 NBTScan was used to gather NetBIOS-related information from the target system.
 
 ### 6. SMBClient
