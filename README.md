@@ -56,6 +56,12 @@ FTP was investigated to understand the identification and connection of an FTP s
 
 ### 3. Telnet
 
+Command:
+
+telnet <target-ip>
+
+(screenshots/02-telnet.jpeg.jpeg)
+
 Telnet was used to understand remote service connectivity and investigate an identified Telnet service.
 
 ### 4. Netstat
